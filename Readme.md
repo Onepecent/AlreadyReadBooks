@@ -3,3 +3,4 @@ hello! i already read books in here!<br />
 `《Python编程：从入门到实践》`<br />
 `《GDB调试指南》`<br />
 `《跟我一起些Makefile》`<br />
+`《少有人走的路》`<br />
